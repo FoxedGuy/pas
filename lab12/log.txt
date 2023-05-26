@@ -1,0 +1,8 @@
+Server is listening on port 6666
+Client connected from ('127.0.0.1', 44332)
+Client connected from ('127.0.0.1', 44336)
+Received from ('127.0.0.1', 44336): kkk
+Received from ('127.0.0.1', 44332): xxx
+Received from ('127.0.0.1', 44332): olololo
+Received from ('127.0.0.1', 44336): pookpkop
+Client connected from ('127.0.0.1', 48012)
